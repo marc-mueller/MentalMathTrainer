@@ -433,3 +433,8 @@ dist/
 tmp/
 .DS_Store
 *.tsbuildinfo
+
+# Local secrets
+.env
+.env.*
+!.env.example
