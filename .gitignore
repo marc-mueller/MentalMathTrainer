@@ -427,3 +427,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Static web app build output
+dist/
+tmp/
+.DS_Store
+*.tsbuildinfo
